@@ -1,11 +1,4 @@
-# Product Review Scraper
 
-## Installation
-
-### Frontend (Client)
-1. Navigate to the client folder:
-
-```bash
 cd client
 
 Install dependencies:
@@ -35,4 +28,4 @@ Start the server:
 npm start
 
 
-The server will run on the default port (e.g., http://localhost:5000) and handle scraping requests from the frontend.
+
